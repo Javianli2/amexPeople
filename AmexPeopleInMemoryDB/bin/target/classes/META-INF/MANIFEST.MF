@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: AmexPersonInMemoryDB
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xiujizou
+Implementation-Vendor-Id: com.javian.amex.person
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/amexPersonSp
+ ringBoot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
